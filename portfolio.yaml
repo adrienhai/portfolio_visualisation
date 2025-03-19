@@ -1,0 +1,44 @@
+EWLD.PA:
+  2021-01-23:
+    - QTE: 4
+    - PRICE: 20.59
+  2025-02-10:
+    - QTE: 3
+    - PRICE: 35.473
+AF.PA:
+  2022-02-28:
+    - QTE: 2
+    - PRICE: null
+  2023-08-01:
+    - QTE: -2
+    - PRICE: null
+TTE.PA:
+  2021-06-14:
+    - QTE: 1
+    - PRICE: 39.70
+PSP5.PA:
+  2025-02-03:
+    - QTE: 1
+    - PRICE: 50.42
+  2025-03-13:
+    - QTE: 1
+    - PRICE: 44.50
+RNO.PA:
+  2025-03-13:
+    - QTE: 1
+    - PRICE: 47.91
+PMEH.PA:
+  2025-03-13:
+    - QTE: 2
+    - PRICE: 11.63
+DBK.DE:
+  2025-02-10:
+    - QTE: 1
+    - PRICE: 18.652
+  2025-03-13:
+    - QTE: -1
+    - PRICE: 21.50
+VIE.PA:
+  2025-01-14:
+    - QTE: 2
+    - PRICE: 26.77
