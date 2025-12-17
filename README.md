@@ -1,5 +1,5 @@
-# portfolio_visualisation
-Simple plots for portfolio viz
+# IRR and TWR computation for a given portfolio
+Data visualization dashboard for computing [IRR and TWR](https://www.forbes.com/sites/berniekent/2022/05/14/what-is-the-difference-between-time-weighted-rate-of-return-calculation-and-irr/)
 
 # User guide
 Install dependencies
