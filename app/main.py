@@ -16,7 +16,7 @@ st.title('Portfolio visualisation')
 
 @st.cache_data
 def load_transactions():
-    with open("portfolio.yaml", "rb") as f:
+    with open("app/portfolio.yaml", "rb") as f:
         portfolio = safe_load(f)
     return portfolio
 
@@ -287,4 +287,9 @@ fig = px.line(
     # labels={text_to_var_name[variable]: variable, "date": "Date"},
 )
 st.plotly_chart(fig)
-
+st.markdown(
+    """
+    For insights into the interpretation of Time Weighted Return (TWR) and Internal Return Rate (IRR) please refer to 
+    [this Forbes article](https://www.forbes.com/sites/berniekent/2022/05/14/what-is-the-difference-between-time-weighted-rate-of-return-calculation-and-irr/)
+    """
+)
