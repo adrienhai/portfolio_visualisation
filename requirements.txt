@@ -5,3 +5,4 @@ streamlit
 pyyaml
 yfinance
 matplotlib
+pyxirr
